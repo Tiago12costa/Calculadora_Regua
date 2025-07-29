@@ -2,7 +2,6 @@
     package="com.example.calculadora_centerless">
 
     <application
-        android:name="io.flutter.app.FlutterApplication"
         android:label="RéguaCerta Centerless"
         android:icon="@mipmap/ic_launcher">
         <activity
