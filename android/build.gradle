@@ -13,4 +13,9 @@ allprojects {
         google()
         mavenCentral()
     }
+    android {
+    namespace 'com.example.calculadora_centerless'
+    compileSdk 33
+    ...
+}
 }
